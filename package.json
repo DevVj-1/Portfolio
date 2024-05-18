@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Dev Vijay",
   "source": "src/index.html",
-  "homepage": "https://DevVj-1.github.io/Portfolio",
+  "homepage": "https://devvj-1.github.io/Portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://DevVj-1.github.io/Portfolio'",
+    "build-gh": "parcel build --public-url 'https://devvj-1.github.io/Portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
